@@ -1,18 +1,6 @@
 # Toy-Production-Optimizer
 Maximize daily toy production profit using linear programming with PuLP.
 
-### ✅ Nome do Projeto:
-**Toy Production Optimizer**
-
----
-
-### ✅ Descrição do Repositório (GitHub description):
-> **Maximize daily toy production profit using linear programming with PuLP.**
-
----
-
-### ✅ README.md:
-
 # Toy Production Optimizer 🎄🧸
 
 This project implements an optimization algorithm to maximize the daily profit of a toy factory, considering production limits and special bundle offers. The problem is modeled and solved using **Linear Programming (LP)** with the **PuLP** library in **Python**.
